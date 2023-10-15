@@ -16,7 +16,7 @@
 - https://leetcode.com/problems/gas-station/description/
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
-## 23년 10월 21일
+### 23년 10월 21일
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - https://leetcode.com/problems/minimum-time-difference/description/
 - https://school.programmers.co.kr/learn/courses/30/lessons/87377
