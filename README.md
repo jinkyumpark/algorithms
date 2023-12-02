@@ -20,3 +20,8 @@
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - https://leetcode.com/problems/minimum-time-difference/description/
 - https://school.programmers.co.kr/learn/courses/30/lessons/87377
+
+### 23년 12월 2일
+- https://school.programmers.co.kr/learn/courses/30/lessons/12946
+- https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+- https://leetcode.com/problems/reveal-cards-in-increasing-order/
