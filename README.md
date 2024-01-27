@@ -25,3 +25,8 @@
 - https://school.programmers.co.kr/learn/courses/30/lessons/12946
 - https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 - https://leetcode.com/problems/reveal-cards-in-increasing-order/
+
+### 24년 1월 27일
+- https://school.programmers.co.kr/learn/courses/30/lessons/76502
+- https://leetcode.com/problems/sort-vowels-in-a-string/description/
+- https://leetcode.com/problems/custom-sort-string/
