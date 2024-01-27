@@ -6,16 +6,16 @@ class CustomSortString {
             .groupingBy { it.toString() }
             .eachCount()
 
-        val appearingInS = order
+        val orderAppearingInS = order
             .split("")
             .filter { it in s }
             .joinToString("") { it.repeat(countMap[it] ?: 0) }
 
-        val notAppearingInOrder = s
+        val sNotAppearingInOrder = s
             .split("")
             .filterNot { it in order }
             .joinToString("")
 
-        return appearingInS + notAppearingInOrder
+        return orderAppearingInS + sNotAppearingInOrder
     }
 }
